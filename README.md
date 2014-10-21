@@ -7,7 +7,9 @@ We will need some follow on packages:
 Start the ipython notebook thus:
 	ipython notebook
 
-do 
+Create a new notebook.
+
+put this into a cell in the notebook: 
 
 	!pip install requests
 
@@ -15,7 +17,7 @@ do
 
 	!pip install twitter
 
-Do this from a new notebook.
+Then hit Shift-Enter. This is how you make any input in the ipython notebook.
 
 Also install pandoc: http://johnmacfarlane.net/pandoc/
 
