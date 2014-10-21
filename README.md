@@ -1,15 +1,18 @@
 We will need some follow on packages:
-do 
-
-	pip install requests
-
-	pip install pyquery
-
-	pip install twitter
 
 Start the ipython notebook thus:
-ipython notebook
+	ipython notebook
 
-Also install pandoc.
+do 
+
+	!pip install requests
+
+	!pip install pyquery
+
+	!pip install twitter
+
+Do this from a new notebook.
+
+Also install pandoc: http://johnmacfarlane.net/pandoc/
 
 
