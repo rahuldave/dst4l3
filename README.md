@@ -19,4 +19,4 @@ Do this from a new notebook.
 
 Also install pandoc: http://johnmacfarlane.net/pandoc/
 
-
+Etherpad: https://etherpad.mozilla.org/bKd8ixfFqy
