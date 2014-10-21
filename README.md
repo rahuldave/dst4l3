@@ -13,11 +13,14 @@ put this into a cell in the notebook:
 
 	!pip install requests
 
+Then hit Shift-Enter. This is how you make any input in the ipython notebook.
+
+Do the same for these two....
+
 	!pip install pyquery
 
 	!pip install twitter
 
-Then hit Shift-Enter. This is how you make any input in the ipython notebook.
 
 Also install pandoc: http://johnmacfarlane.net/pandoc/
 
