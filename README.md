@@ -1,3 +1,7 @@
+Install Anaconda first:
+
+https://store.continuum.io/cshop/anaconda/
+
 We will need some follow on packages:
 
 Start the ipython notebook thus:
